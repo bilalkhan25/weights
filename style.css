@@ -9,7 +9,7 @@
     font-family: consolas, monospace;
 }
 #timeDisplay{
-    font-size: 75px;
+    font-size: 63px;
     color: #40c437;
     font-family: consolas, monospace;
 }
@@ -17,5 +17,6 @@
     text-align: center;
     border: 3px solid;
     border-radius: 25px;
+    margin: 322px;
     background-color: #222222;
 }
